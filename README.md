@@ -1,2 +1,2 @@
-# btober3.github.io
+# btober3
 Outreach slides
